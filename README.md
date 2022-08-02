@@ -35,6 +35,7 @@ git clone https://github.com/mir-one/pixel.git
 ```sh
 yarn install
 ```
+![](https://github.com/mir-one/pixel/blob/main/yarn.png)
 
 Если у вас установлен node, запустите эту команду:
 
