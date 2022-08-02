@@ -25,7 +25,7 @@
 
 Клонируйте репозиторий 
 ```sh
-git clone https://github.com/HashLips/hashlips_art_engine.git
+git clone https://github.com/mir-one/pixel.git
 ```
 
 Перейдите в каталог проекта и запустите эту команду, если у вас установлен yarn
