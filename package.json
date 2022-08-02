@@ -1,0 +1,26 @@
+{
+  "name": "pixel",
+  "version": "1.0.0",
+  "description": "Инструмент пикселизации изображений. Метод цифровой обработки изображений, заключающийся в существенном уменьшении разрешения изображения.",
+  "main": "index.js",
+  "bin": "index.js",
+  "pkg": {
+    "assets": [
+      "layers/**/*"
+    ],
+    "scripts": [
+      "src/main.js",
+      "src/config.js"
+    ],
+    "outputPath": "dist"
+  },
+  "scripts": {
+    "build": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EQCjNf6y_RhVATipbgKpCBAa8h5z6mwIXv3oDY7UZRyv0w3m",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.8.0"
+  }
+}
