@@ -28,6 +28,7 @@
 ```sh
 git clone https://github.com/mir-one/pixel.git
 ```
+![](https://github.com/mir-one/pixel/blob/main/git.png)
 
 Перейдите в каталог проекта и запустите эту команду, если у вас установлен yarn
 
