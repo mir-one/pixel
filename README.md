@@ -52,6 +52,7 @@ npm install
 ```sh
 node index.js
 ```
+![](https://github.com/mir-one/pixel/blob/main/node.png)
 
 Все ваши изображения будут обработаны в каталог `/output`.
 Если вы хотите изменить коэффициент пикселизации, можно изменить `ratio` объекта `pixelFormat` в файле `src/config.js`. Чем меньше число слева, тем более "пиксельным" будет изображение.
@@ -61,4 +62,5 @@ const pixelFormat = {
   ratio: 30 / 256,
 };
 ```
+![](https://github.com/mir-one/pixel/blob/main/result.png)
 Готово! Пикселизация закончена.
